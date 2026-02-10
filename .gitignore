@@ -149,6 +149,3 @@ cython_debug/
 
 # OS X
 .DS_Store
-
-# Outputs
-outputs/*.png
